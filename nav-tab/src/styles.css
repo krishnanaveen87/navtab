@@ -1,0 +1,58 @@
+/* You can add global styles to this file, and also import other style files */
+
+.pane {
+  width: 820px;
+  padding: 15px !important;
+  color: #fff;
+  font-family: verdana;
+  font-size: 11px;
+  border-top: 1px solid #4d4d4d;
+}
+div {
+  float: left;
+  width: 850px;
+}
+.nav.nav-tabs {
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style-type: none;
+min-width: 85px;
+float: left;
+padding: 10px;
+font-size: 12px;
+font-family: verdana;
+height: 35px;
+line-height: 35px;
+text-align: center;
+}
+.active {
+  background: #23282a;
+}
+tabs {
+  background: #1b2022;
+  float: left;
+  width: 850px;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.topdiv{width:800px}
+.smallDiv {
+  background: transparent;
+border: 1px solid #d1d1d1;
+width: 155px;
+padding: 10px;
+border-radius: 5px;
+margin: 5px 10px;
+}
+.smallDiv img {width:24px; height:24px
+}
+.smalTxt{float: right;
+  width: 100px;
+  line-height: 25px;
+  height: 25px;font-size: 12px;
+  font-family: verdana;}
